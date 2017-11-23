@@ -1,0 +1,51 @@
+body {
+  font-family: Georgia;
+  font-size: 14px;
+  background-color: #fffffd;
+  color: #4D4D4D;
+}
+
+#painting {
+  width:450px;
+  padding-top: 16px;
+  padding-bottom: 20px;
+}
+
+#iglogo {
+  width: 90px;
+}
+
+
+/*@media only screen and (max-width: 500px) {
+    #vitrine {
+      width: 100%;
+    }
+}*/
+
+h1 {
+  font-size: 45px;
+  font-family: Raleway;
+}
+
+p {
+  margin-bottom: 0px
+}
+
+#work {
+  font-size: 25px;
+  font-weight: bold;
+}
+#contact {
+  font-size: 18px
+}
+
+
+.footer {
+  font-size: 10px;
+  color: grey;
+  padding-top: 10px;
+  margin-left: 25px;
+}
+.fa-heart {
+  color:red;
+}
